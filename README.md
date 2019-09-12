@@ -13,3 +13,5 @@ simple instruction added to readme file.
 ###copyright
 
 Git. training suraj lama
+
+please fork this repository ans issue pull request for review
