@@ -9,3 +9,7 @@ Sample website with plenty of files for demos
 ## How to contribute
 
 simple instruction added to readme file.
+
+###copyright
+
+Git. training suraj lama
