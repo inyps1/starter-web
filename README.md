@@ -15,3 +15,5 @@ simple instruction added to readme file.
 Git. training suraj lama
 
 please fork this repository ans issue pull request for review
+
+Adding a line for rebashing example
