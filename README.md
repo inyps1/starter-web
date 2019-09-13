@@ -18,3 +18,5 @@ please fork this repository ans issue pull request for review
 
 Adding a line for rebashing example
 then more changes from myfeatoe
+
+All rights reserved
